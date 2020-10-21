@@ -10,7 +10,7 @@ There are two folders : Demo and Complete Pipeline.
 
 2. Complete pipeline provides code for training, testing, and validation.
   
-Further details are provided within each folder.
+Further details are provided within each folder. If there are any questions, please contact mohit.p@gatech.edu and alregib@gatech.edu.
 
 ### UNIQUE : UNSUPERVISED IMAGE QUALITY ESTIMATION
 
