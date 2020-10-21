@@ -11,3 +11,5 @@ There are two folders : Demo and Complete Pipeline.
   b) Training a linear decoder model on the ImageNet patches
   c) Applying learned model on LIVE and MULTI-LIVE datasets
   d) Comparing estimated scores against subjective scores and providing distortion-wise and overall Spearman correlation between the two.
+  
+Further details are provided within each folder.
