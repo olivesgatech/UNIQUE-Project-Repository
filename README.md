@@ -1,4 +1,7 @@
 # UNIQUE-Project-Repository
+
+For the purposes of Georgia Tech ECE 6258 only.
+
 This repository contains the training, testing, and demo codes for the paper - UNIQUE : Unsupervised Image Quality Estimation.
 
 There are two folders : Demo and Complete Pipeline. 
