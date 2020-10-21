@@ -21,18 +21,18 @@ worth of data, which corresponds to 100,000 8x8 image patches randomly obtained 
 The learnt filter weights :
 
 <p align="center">
-  <img src=/Images/Visualization.png/>
+  <img src=/Demo/Images/Visualization.png/>
 </p>  
 
 Applying these weights to original (top) and distorted images (bottom), the obtained feature maps  
 
 <p align="center">
-  <img src=/Images/FeatMap.png/>
+  <img src=/Demo/Images/FeatMap.png/>
 </p>  
 
 The results of the algorithm on LIVE, MULTI-LIVE, and TID13 databases :  
 
-![Results Filters](/Images/Results.png)
+![Results Filters](/Demo/Images/Results.png)
 
 ### Citation
 
