@@ -8,3 +8,27 @@ There are two folders : Demo and Complete Pipeline.
 2. Complete pipeline provides code for training, testing, and validation.
   
 Further details are provided within each folder.
+
+### UNIQUE : UNSUPERVISED IMAGE QUALITY ESTIMATION
+
+The learnt filter weights :
+
+<p align="center">
+  <img src=/Demo/Images/Visualization.png/>
+</p>  
+
+Applying these weights to original (top) and distorted images (bottom), the obtained feature maps  
+
+<p align="center">
+  <img src=/Demo/Images/FeatMap.png/>
+</p>  
+
+The results of the algorithm on LIVE, MULTI-LIVE, and TID13 databases :  
+
+![Results Filters](/Demo/Images/Results.png)
+
+### Citation
+
+IEEE link : https://ieeexplore.ieee.org/document/7546870  
+ArXiv Link : https://arxiv.org/abs/1810.06631  
+
