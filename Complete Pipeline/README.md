@@ -23,7 +23,7 @@ Some notes :
 
 3) The reference and distorted images are read and provided to mslPoolingMetric.m from where mslUNIQUE.m is called. Your own code/functions can be written here. outCT is the quality of the distorted image given the reference image. outCT of all the images in the LIVE dataset is calculated and collated within mslMainPoolingLIVE.m.
 
-4) Similar setup is followed on the MULTI-LIVE dataset. Please download MULTI-LIVE from https://live.ece.utexas.edu/research/ChallengeDB/index.html
+4) Similar setup is followed on the MULTI-LIVE dataset. Please download MULTI-LIVE from https://live.ece.utexas.edu/research/Quality/live_multidistortedimage.html
 
 5) Spearman correlation between the estimated and subjective quality is calculated and displayed. Note that the last two display lines provide the overall correlation scores across all images and distortions in each dataset. 
 
